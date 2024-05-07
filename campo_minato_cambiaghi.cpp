@@ -68,7 +68,7 @@ void menu(){
 	printf("1. inserire indice di riga e di colonna per scoprire la cella\n");
 	printf("2. inserire nell'indice di riga -1 per inserire una bandiera(!)\n");
 	printf("3. si vince quando si aprono tutte le celle tranne quelle delle bombe\n");
-	printf("3. si perde quando viene trovata una bomba(/)\n\n\n");
+	printf("4. si perde quando viene trovata una bomba(/)\n\n\n");
 	
 	system("PAUSE");
 }
